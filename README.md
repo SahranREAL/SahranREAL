@@ -1,7 +1,10 @@
 ### Salut je suis Sahran 👋
 
-# Language:
+# Mes capacités 》
+
+## Language:
 - 🌐 HTML
-- 🎈 Configuration de plugins minecraft
-# Futur langage
+## Futur langage
 - ♦️ Java Bukkit
+# Autre:
+- 🎈 Configuration de plugins minecraft
