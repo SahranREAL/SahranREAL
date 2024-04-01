@@ -6,5 +6,5 @@
 - 🌐 HTML
 ## Futur langage
 - ♦️ Java Bukkit
-# Autre:
+## Autre:
 - 🎈 Configuration de plugins minecraft
