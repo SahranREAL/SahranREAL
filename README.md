@@ -3,7 +3,7 @@
 # Mes capacités  —》
 
 ## Language:
-- 🌐 HTML
+- 🌐 HTML (la base)
 ## Futur langage
 - ♦️ Java Bukkit
 ## Autre:
