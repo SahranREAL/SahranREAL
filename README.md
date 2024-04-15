@@ -6,6 +6,8 @@
 - 🌐 HTML (la base)
 ## Futur langage
 - ♦️ Java Bukkit
+- 🌐 Css
+- 🌐 java scripte
 ## Autre:
 - 🎈 Configuration de plugins minecraft
 
