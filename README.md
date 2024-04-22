@@ -3,11 +3,11 @@
 # Mes capacités  —》
 
 ## Language:
-- 🌐 HTML (la base)
+- 🌐 HTML
+- 🌐 Css (avec aide)
+- 🌐 java scripte (avec aide)
 ## Futur langage
 - ♦️ Java Bukkit
-- 🌐 Css
-- 🌐 java scripte
 ## Autre:
 - 🎈 Configuration de plugins minecraft
 
