@@ -4,7 +4,7 @@
 
 ## Language:
 - 🌐 HTML
-- 🌐 Css (avec aide)
+- 🌐 Css
 - 🌐 java scripte (avec aide)
 ## Futur langage
 - ♦️ Java Bukkit
