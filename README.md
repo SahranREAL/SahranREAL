@@ -5,7 +5,8 @@
 ## Language:
 - 🌐 HTML
 - 🌐 Css
-- 🌐 java scripte (avec aide)
+- 🌐 Java scripte (avec aide)
+- 💼 Pyhton
 ## Futur langage
 - ♦️ Java Bukkit
 ## Autre:
