@@ -1,6 +1,6 @@
 ### Salut je suis Sahran 👋
 
-# Mes capacités  —》
+# Mes compétences:
 
 ## Language web:
 - 🌐 HTML
