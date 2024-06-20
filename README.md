@@ -7,7 +7,8 @@
 - 🌐 Css
 - 🌐 Java scripte
 ## Langage de programmation:
-- ♦️ Java
+- 💻 Java
+- 💻 Java scripte
 ## Autre:
 - 🎈 Configuration de plugins minecraft
 
