@@ -2,13 +2,12 @@
 
 # Mes capacités  —》
 
-## Language:
+## Language web:
 - 🌐 HTML
 - 🌐 Css
-- 🌐 Java scripte (avec aide)
-- 💼 Pyhton
-## Futur langage
-- ♦️ Java Bukkit
+- 🌐 Java scripte
+## Langage de programmation:
+- ♦️ Java
 ## Autre:
 - 🎈 Configuration de plugins minecraft
 
