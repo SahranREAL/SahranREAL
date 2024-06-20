@@ -9,6 +9,7 @@
 ## Langage de programmation:
 - 💻 Java
 - 💻 Java scripte
+- 💻 Pyhton
 ## Autre:
 - 🎈 Configuration de plugins minecraft
 
