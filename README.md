@@ -12,6 +12,7 @@
 - 💻 Pyhton
 ## Autre:
 - 🎈 Configuration de plugins minecraft
+- 🎈 Skript (minecraft)
 
 # Me contacter:
 - 🎟 Discord: Sahran__
