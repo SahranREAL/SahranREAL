@@ -14,5 +14,9 @@
 - 🎈 Configuration de plugins minecraft
 - 🎈 Skript (minecraft)
 
+# Mes projets:
+- 🦊 FoxPing
+- 🖥️ SoulNode
+
 # Me contacter:
 - 🎟 Discord: Sahran__
