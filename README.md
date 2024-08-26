@@ -17,6 +17,7 @@
 # Mes projets:
 - 🦊 FoxPing
 - 🖥️ SoulNode
+(a la recherche de projets)
 
 # Me contacter:
 - 🎟 Discord: Sahran__
