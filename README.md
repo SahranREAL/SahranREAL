@@ -17,6 +17,7 @@
 # Mes projets:
 - 🦊 FoxPing
 - 🖥️ SoulNode
+- 💵 Echo-Host
 
 (a la recherche de projets)
 
