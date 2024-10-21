@@ -1,4 +1,4 @@
-## 👋 Salut, moi c’est Sahran !
+### 👋 Salut, moi c’est Sahran !
 
 ---
 
@@ -25,9 +25,9 @@
 ---
 
 ## 🚀 Mes Projets
-- 🦊 **FoxPing** : Un outil pratique pour les joueurs Minecraft.  
-- 🖥️ **SoulNode** : Un projet serveur optimisé pour le gaming.  
-- 💵 **Echo-Host** : Un service d'hébergement simple et efficace.  
+- 🦊 **FoxPing** : Serveur Minecraft de mini-jeux en version 1.8, offrant une expérience de jeu fluide et amusante pour tous les joueurs.  
+- 🖥️ **SoulNode** : Un service d'hébergement pour développeurs, permettant de tester leurs applications sans frais, compatible avec NodeJS, Python, et bien d'autres langages.  
+- 💵 **Echo-Host** : Un hébergeur de VPS à prix compétitifs, pour un hébergement performant et accessible.  
 
 *(Toujours à la recherche de nouveaux projets passionnants)*
 
