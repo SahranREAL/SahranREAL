@@ -1,25 +1,37 @@
-### Salut je suis Sahran 👋
+## 👋 Salut, moi c’est Sahran !
 
-# Mes compétences:
+---
 
-## Language web:
-- 🌐 HTML
-- 🌐 Css
-- 🌐 Java scripte
-## Langage de programmation:
-- 💻 Java
-- 💻 Java scripte
-- 💻 Pyhton
-## Autre:
-- 🎈 Configuration de plugins minecraft
-- 🎈 Skript (minecraft)
+## 💻 Mes Compétences
 
-# Mes projets:
-- 🦊 FoxPing
-- 🖥️ SoulNode
-- 💵 Echo-Host
+### 🌐 Langages Web
+**🎨 FrontEnd :**  
+  - 📝 HTML  
+  - 🎨 CSS  
+  - ⚡ JavaScript
 
-(a la recherche de projets)
+**🔧 BackEnd :**  
+  - 🖥️ NodeJS (EJS, JavaScript, CSS)
 
-# Me contacter:
-- 🎟 Discord: Sahran__
+### 🛠️ Langages de Programmation
+- **☕ Java**  
+- **⚙️ JavaScript**  
+- **🐍 Python**
+
+### 🎮 Autres
+- 🔧 **Configuration de plugins Minecraft**  
+- 🧙 **Skript pour Minecraft**  
+
+---
+
+## 🚀 Mes Projets
+- 🦊 **FoxPing** : Un outil pratique pour les joueurs Minecraft.  
+- 🖥️ **SoulNode** : Un projet serveur optimisé pour le gaming.  
+- 💵 **Echo-Host** : Un service d'hébergement simple et efficace.  
+
+*(Toujours à la recherche de nouveaux projets passionnants)*
+
+---
+
+## 📬 Me Contacter
+- 🎟️ **Discord** : Sahran__
