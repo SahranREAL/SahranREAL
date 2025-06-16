@@ -7,7 +7,6 @@ Parce que j’en ai marre des gros hébergeurs qui te prennent pour un portefeui
 
 ## Mes autres projets (parce que j’aime pas m’ennuyer)  
 - **LumenLabs** : je transforme des outils payants en versions open source gratuites, pour que tout le monde puisse en profiter.  
-- **TrustMyHost** : un Trustpilot pour les hébergeurs, histoire que tu saches vraiment à qui tu as affaire (en cours de développement).
 
 ## Ce que je fais au quotidien  
 - Je code principalement en **Node.js** — parce que c’est moderne et puissant.  
