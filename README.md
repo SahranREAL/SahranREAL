@@ -29,3 +29,5 @@ Je crois dur comme fer qu’on peut faire autrement, sans bullshit, avec respect
 **Contact**:  
 - Discord : `sahran__`  
 - Mail : [loris@echo-host.net](mailto:loris@echo-host.net)
+
+![Sahran](https://github-readme-stats.vercel.app/api?username=SahranREAL&show_icons=true&theme=radical)
