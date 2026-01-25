@@ -15,9 +15,9 @@ Parce que j’en ai marre des gros hébergeurs qui te prennent pour un portefeui
 - Je jongle entre tech et créativité (parfois ça finit en musique un peu weird, mais c’est ça le fun).
 
 ## Fun facts sur moi  
-- J’ai commencé tout seul, sans formation officielle, juste avec beaucoup de motivation et de curiosité.  
-- Mes parents me soutiennent financièrement jusqu’à mes 18 ans, mais je veux rendre tout ça rentable avant.  
-- Je rêve qu’Echo-Host devienne un vrai acteur fiable, et surtout qu’il donne une bonne image de l’hébergement en Suisse et ailleurs.
+- J’ai tout appris en autodidacte : admin sys, dev, infra… principalement à coups de tests, d’erreurs et de serveurs cassés (RIP).  
+- Echo-Host est né d’un ras-le-bol face à certains hébergeurs : au lieu de râler, j’ai décidé de faire mieux moi-même.  
+- Je peux optimiser une infra pendant des heures… mais parle-moi de LVM et tu verras disparaître toute ma patience instantanément.
 
 ## Parlons vrai...  
 Je crois dur comme fer qu’on peut faire autrement, sans bullshit, avec respect et transparence. Si t’es chaud pour échanger, bosser ensemble, ou juste papoter, tu sais où me trouver.
