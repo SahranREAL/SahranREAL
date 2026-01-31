@@ -27,7 +27,7 @@ Je crois dur comme fer qu’on peut faire autrement, sans bullshit, avec respect
 **Tech stack**: Node.js | Proxmox | Pterodactyl | SQLite3 (pour les bases légères)  
 
 **Contact**:  
-- Discord : `sahran__`  
-- Mail : [loris@echo-host.net](mailto:loris@echo-host.net)
+- Discord : `sahran.ch`  
+- Mail : [loris.lategola@ik.me](mailto:loris.lategola@ik.me)
 
 ![Sahran](https://github-readme-stats.vercel.app/api?username=SahranREAL&show_icons=true&theme=radical)
