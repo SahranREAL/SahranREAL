@@ -12,7 +12,8 @@ Parce que j’en ai marre des gros hébergeurs qui te prennent pour un portefeui
 - Je code principalement en **Node.js** — parce que c’est moderne et puissant.  
 - Je bricole mes serveurs et VPS avec **Proxmox** et **Pterodactyl**.  
 - Je crée des outils web simples, efficaces et pensés pour la communauté.  
-- Je jongle entre tech et créativité (parfois ça finit en musique un peu weird, mais c’est ça le fun).
+- Je jongle entre tech et créativité (parfois ça finit en musique un peu weird, mais c’est ça le fun).  
+- ⚠️ Je déteste PHP 😤… sérieux, PHP c’est un **langage de PUTE**.
 
 ## Fun facts sur moi  
 - J’ai tout appris en autodidacte : admin sys, dev, infra… principalement à coups de tests, d’erreurs et de serveurs cassés (RIP).  
