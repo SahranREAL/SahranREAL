@@ -20,7 +20,6 @@
 - ☁️ **Fondateur & Vice-Président** chez **Echo-host Association** *(solutions Cloud & Hébergement)*.
 - 🚀 **Développeur Web** axé sur l'écosystème **Node.js** et le design moderne.
 - 🤖 **AI-Native Developer** : J'intègre et j'exploite activement l'Intelligence Artificielle au quotidien dans mes flux de développement pour concevoir plus vite et plus efficacement.
-- 💡 J'explore également le framework **PHP Laravel** sur mes projets.
 - 💬 Une question ou un projet Cloud ? Écris-moi sur **loris.lategola@helviq.net**.
 
 ---
@@ -33,7 +32,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 </p>
 
