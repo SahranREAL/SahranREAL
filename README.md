@@ -48,33 +48,20 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SahranREAL&theme=onedark&column=7&margin-w=15&margin-h=15&no-reflection=true" alt="Trophées GitHub" />
+  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub">
+    <img src="https://github-profile-trophy.vercel.app/?username=SahranREAL&theme=darkhub" alt="Trophées GitHub" />
   </a>
 </div>
 
 <br/>
 
 ## 📊 Statistiques GitHub
-
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SahranREAL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistiques GitHub" />
-  </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SahranREAL&theme=tokyonight" alt="Série de contributions" />
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahranREAL&layout=compact&theme=tokyonight&hide_border=false" alt="Langages les plus utilisés" />
-  </a>
-</div>
-
-<br/>
 
 ## 📈 Cartes de Résumé d'Activité
 
